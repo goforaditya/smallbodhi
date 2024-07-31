@@ -1,2 +1,5 @@
 smallbodhi_env/
-.env
+**/.env
+**/__pycache__/
+**/*.sesskey
+*.pyc
